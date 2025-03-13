@@ -15,7 +15,7 @@ Cases
 5. Stop the program.
 ### Program:
 ### do…while: 
-
+```
 def display(): 
 start=input("Enter a positive value for START: ") 
 end=input("Enter a positive value for END: ") 
@@ -29,10 +29,11 @@ start+=1
 else: 
 break 
 else: 
-print("Enter a valid positive number.") display() 
+print("Enter a valid positive number.") display()
+```
 
-###  while…do 
-
+### while…do 
+```
 start=input("Enter a positive value for START: ") end=input("Enter 
 a positive value for END: ") 
 if 
@@ -45,9 +46,10 @@ start+=1
 else: 
 and end.isnumeric(): 
 print("Enter a valid positive number.")
+```
 
 ### switch 
-
+```
 def switch(): 
 switcher={ 
 0:"even", 
@@ -59,8 +61,10 @@ print(switcher[n%2])
 except ValueError: 
 print("Enter a valid number.") 
 switch()
+```
 
 ###  if else 
+```
 def compare(): 
 a=input("Enter a value for A: ") 
 b=input("Enter a value for B: ") 
@@ -74,15 +78,18 @@ print("B is greater than")
 else: 
 print("A is equal to B") 
 except ValueError: 
-print(“Enter a valid number.”) 
+print(“Enter a valid number.”)
+```
 
 ###  for
+```
 def iterate(): 
 string=input("Enter a string: ") for 
 i in string: 
 print(ord(i),end=" ") 
 iterate()
 
+```
 
 
 
@@ -99,6 +106,7 @@ iterate()
 ![Screenshot 2025-03-13 082735](https://github.com/user-attachments/assets/1011ee30-5e67-4229-933a-80868d12ef99)
 
 ![Screenshot 2025-03-13 083525](https://github.com/user-attachments/assets/052e2f4e-1aa8-4393-922e-a8fdd1a4c8e0)
+![Screenshot 2025-03-13 083924](https://github.com/user-attachments/assets/38b49e91-5271-4dbf-875a-69329829884e)
 
 
 
