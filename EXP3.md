@@ -40,6 +40,7 @@ else:
 ```
 
 ### Output:
+![Screenshot 2025-04-10 084324](https://github.com/user-attachments/assets/59023696-de4f-4900-b6c0-60df02afbe60)
 
 
 
