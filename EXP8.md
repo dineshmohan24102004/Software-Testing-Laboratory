@@ -1,56 +1,23 @@
-# Ex.No: 8  Test cases for Banking Application
+# Ex.No: 8 Pytest Python program for Addition
 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:   08/05/2025                                                                         
+### REGISTER NUMBER : 212222040039
 ### AIM: 
-For Banking Applicationsystem study its system specifications and generate test cases.
-### The characteristics of a Banking application are as follows: 
+To write a python program for addition of two numbers and test the test cases using Pytest.
+### Algorithm: 
+Step 1: Write the python program for addition of two numbers. 
+Step 2: Make sure that function name should be “def test_*():” and the line to be tested 
+should have assert keyword at the beginning. 
+Step 3: Write some test cases for to be tested and save it as “test_add.py”. 
+Step 4: Open command prompt and change the directory to where pytest and program is 
+saved and type “pytest test_add.py” and run it. 
+Step 5: Stop the program.
 
-
-
-### Requirement Gathering: 
-
-
-
-### Requirement Review: 
-
-
-
-
-### Business Scenario Preparations: 
-
-
-
-
-
-### Test Case Preparation: 
-
-
-### Test Case Review: 
-
-
-### Test Case Execution: 
-
-
-### Database Testing: 
-
-
-### Security Testing: 
- 
-
-
-### Test cases for opening bank account:
-
-
-### Input parameters checking: 
- 
-
-### Type of account: 
-
-
-### Test cases: 
+ ### Output:
+ ![Screenshot 2025-05-08 091649](https://github.com/user-attachments/assets/31448fc7-7bbe-48bd-8dea-a4526b76fc6e)
 
 
 
 ### Result:
-Thus, the Test cases for Banking Application is implemented and output is verified successfully. 
+Thus, the python program for addition is tested using pytest and executed and output is 
+verified successfully
