@@ -1,5 +1,5 @@
 # Ex.No: 7 Take ATM system and study its system specifications and report various bugs
-### DATE:    08/05/2025                                                                        
+### DATE:   17-4-25                                                                      
 ### REGISTER NUMBER : 212222040039
 
 # Purpose: 
