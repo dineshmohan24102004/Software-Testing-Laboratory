@@ -1,5 +1,5 @@
 ### AIM: 
-Write a python program for Binary Search and inspect for failures.
+Write a program in Python language to search a given element is present in the list using Binary search. Introspect the causes for its failure and write down the possible reasons for its failure.
 
 ### Algorithm:
 
