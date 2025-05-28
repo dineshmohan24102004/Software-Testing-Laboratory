@@ -1,7 +1,8 @@
 ### EX 5: Write a program in Python language to search a given element is present in the list using Binary search. Introspect the causes for its failure and write down the possible reasons for its failure.
 
 
-
+## Date: 3-4-25 
+## Register Number: 212222040039
 ### AIM: 
 Write a program in Python language to search a given element is present in the list using Binary search. Introspect the causes for its failure and write down the possible reasons for its failure.
 
